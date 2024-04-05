@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ok">OK</string>
-    <string name="menu_about">About…</string>
-    <string name="menu_clipboard_copied">Copied to clipboard.</string>
-    <string name="show_hide_units">Show/hide units…</string>
-    <string name="copy_value">Copy value</string>
-    <string name="copy_row">Copy row</string>
+    <string name="menu_about">Despre…</string>
+    <string name="menu_clipboard_copied">Copiat în clipboard.</string>
+    <string name="show_hide_units">Arată/ascunde unitățile…</string>
+    <string name="copy_value">Copiază valoarea</string>
+    <string name="copy_row">Copiază rândul</string>
+
 
     <string name="str_1">1</string>
     <string name="str_2">2</string>
@@ -22,32 +23,36 @@
     <string name="str_pad_negate">±</string>
     <string name="str_pad_back">←</string>
 
-    <string name="launcher_title">Convert Units</string>
-    <string name="widget_title">Convert Units</string>
-    <string name="about_message">ConvertMe — An easy-to-use unit conversion utility.\n\nCopyright © 2014+ Defiant Technologies, LLC.\nCreated by Dmitry Brant.</string>
+    <string name="launcher_title">Convertiți Unitățile</string>
+    <string name="widget_title">Convertiți Unitățile</string>
+    <string name="about_message">UnitMaster — Convertor de unitati.
+        \n\nCopyright © 2024+ RoberCrivatz si firmele lui SRL.
+        \nCreat de Craciun Robert-Alexandru.</string>
 
-    <string name="configure_widget">Configure widget</string>
-    <string name="unit_category">Unit category:</string>
-    <string name="unit_from">Unit to convert from:</string>
-    <string name="unit_to">Unit to convert to:</string>
-    <string name="unit_increment">Increment amount:</string>
 
-    <string name="custom_units">Custom units</string>
-    <string name="add_new_unit">Add new unit…</string>
-    <string name="add_button">Add</string>
-    <string name="done_button">Done</string>
-    <string name="delete_unit">Delete unit</string>
-    <string name="edit_unit">Edit unit</string>
-    <string name="preview">Preview</string>
-    <string name="inverse">Inverse</string>
-    <string name="nice_try">Nice try!</string>
-    <string name="delete_unit_confirm">Are you sure you want to delete \"%s\"?</string>
-    <string name="delete_unit_dependent">\"%1$s\" cannot be deleted because other units depend on it (%2$s).</string>
-    <string name="custom_unit_name">Name of unit</string>
-    <string name="custom_unit_name_invalid">Invalid name (must be non-empty)</string>
-    <string name="custom_unit_base">Base unit:</string>
-    <string name="custom_unit_multiplier">Multiplier</string>
-    <string name="custom_unit_multiplier_invalid">Invalid multiplier (must be a nonzero decimal number)</string>
+    <string name="configure_widget">Configurează widget-ul</string>
+    <string name="unit_category">Categorie unitate:</string>
+    <string name="unit_from">Unitatea de conversie de la:</string>
+    <string name="unit_to">Unitatea de conversie în:</string>
+    <string name="unit_increment">Cantitate de incrementare:</string>
+
+    <string name="custom_units">Unități personalizate</string>
+    <string name="add_new_unit">Adaugă unitate nouă…</string>
+    <string name="add_button">Adaugă</string>
+    <string name="done_button">Gata</string>
+    <string name="delete_unit">Șterge unitatea</string>
+    <string name="edit_unit">Editează unitatea</string>
+    <string name="preview">Previzualizare</string>
+    <string name="inverse">Invers</string>
+    <string name="nice_try">Încercare bună!</string>
+    <string name="delete_unit_confirm">Sigur dorești să ștergi \"%s\"?</string>
+    <string name="delete_unit_dependent">\"%1$s\" nu poate fi ștearsă deoarece alte unități depind de ea (%2$s).</string>
+    <string name="custom_unit_name">Numele unității personalizate</string>
+    <string name="custom_unit_name_invalid">Nume nevalid (trebuie să fie nevid)</string>
+    <string name="custom_unit_base">Unitatea de bază:</string>
+    <string name="custom_unit_multiplier">Multiplicator</string>
+    <string name="custom_unit_multiplier_invalid">Multiplicator nevalid (trebuie să fie un număr zecimal nenul)</string>
     <string name="custom_unit_multiplier_default">1.0</string>
+
 
 </resources>

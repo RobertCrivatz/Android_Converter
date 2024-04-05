@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="list_item_highlight">#6080c0ff</color>
-    <color name="accent">#4080ff</color>
-    <color name="toolbar">#ff4050a0</color>
-    <color name="statusBar">#ff203080</color>
-    <color name="window_background">#444</color>
-    <color name="number_pad_background">#333</color>
-    <color name="number_pad_button">#46a</color>
-    <color name="number_pad_button_pressed">#348</color>
-    <color name="category_text_background">#2fff</color>
-    <color name="name_text">#ddd</color>
-    <color name="value_text">#f0f0f0</color>
-    <color name="list_divider">#555</color>
-    <color name="fab_color">#0a6</color>
-    <color name="card_background">#666</color>
+    <color name="list_item_highlight">#965fd4</color>
+    <color name="accent">#8bd450</color>
+    <color name="toolbar">#e6770b</color>
+    <color name="statusBar">#7f51f7</color>
+    <color name="window_background">#734f9a</color>
+    <color name="number_pad_background">#734f9a</color>
+    <color name="number_pad_button">#965fd4</color>
+    <color name="number_pad_button_pressed">#8bd450</color>
+    <color name="category_text_background">#1d1a2f</color>
+    <color name="name_text">#FFFFFF</color>
+    <color name="value_text">#FFFFFF</color>
+    <color name="list_divider">#FFFFFF</color>
+    <color name="fab_color">#e6770b</color>
+    <color name="card_background">#3f6d4e</color>
+
+
+
+
+
 </resources>
